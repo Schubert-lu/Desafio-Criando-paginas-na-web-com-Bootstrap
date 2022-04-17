@@ -2,7 +2,11 @@
 
 Bem vindos ao meu repositório criado para o desafio de criar sites com Bootstrap!
 
-Se tiver alguma sugestão, entre em contato comigo pelo meu Linkedin: [https://www.linkedin.com/in/lucasschubertgomes/
+Se tiver alguma sugestão, entre em contato comigo pelo meu Linkedin: 
+
+<a href="https://www.linkedin.com/in/lucasschubertgomes/"><img src="https://user-images.githubusercontent.com/103296710/163696518-4b953208-eb6c-4535-90d1-c84cdaa84a36.png" width= 30px height=30px></a>
+
+
 
 ## 📍 *Links úteis*
 
