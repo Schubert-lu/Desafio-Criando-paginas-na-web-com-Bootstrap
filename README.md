@@ -6,4 +6,8 @@ Se tiver alguma sugestão, entre em contato comigo pelo meu Linkedin: [https://w
 
 ## 📍 *Links úteis*
 
+* https://getbootstrap.com/docs/5.1/components/navbar/#containers
+* https://getbootstrap.com/
+* https://www.pexels.com/pt-br/procurar/team/
+
 
